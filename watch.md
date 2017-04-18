@@ -1,3 +1,8 @@
-- [ ] Example
-- [X] Example
-- [ ] Deepwater Horizon
+- [ ] Hot Shots
+- [ ] Top Gun
+- [ ] 9 1/2 Wochen
+- [ ] Equilibrium
+- [ ] Death Proof
+- [ ] Arlington Road
+- [ ] Hunt for Red October
+- [ ] The Usual Suspects
