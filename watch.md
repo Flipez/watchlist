@@ -1,5 +1,5 @@
-- [ ] Deppwater Horizon
-- [ ] Hot Shots
+- [ x ] Deepwater Horizon
+- [ x ] Hot Shots
 - [ ] Top Gun
 - [ ] 9 1/2 Wochen
 - [ ] Equilibrium
